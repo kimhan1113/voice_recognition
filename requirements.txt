@@ -1,0 +1,5 @@
+SpeechRecognition
+pyautogui
+clipboard
+keyboard
+pipwin
